@@ -1,4 +1,7 @@
 Pablo Jordan
-(A) Modificació 01 Main PabloJordan2
-
-(C) Modificació 02 Main PabloJordan 2
+(A) Benvingut a la branca01 PabloJordan2
+(B) Modificació 01 Main PabloJordan2
+(C) Benvingut a la branca02 PabloJordan2
+(D) Modificació 02 Main PabloJordan2
+(E) Afegim imatge a branca02 PabloJordan2
+(F) Afegim imatge a branca02 PabloJordan2
